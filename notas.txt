@@ -1,2 +1,1 @@
-Notas de mi proyecto
-Proyecto realizado para aprender Git y GitHub.
+Notas del proyecto Git
